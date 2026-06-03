@@ -34,13 +34,13 @@ A simple Java-based stock trading simulation project developed to demonstrate Ob
 This project allows users to simulate stock market operations such as buying and selling stocks, tracking investments, and monitoring portfolio performance through a console-based interface.
 
 ## Features
-Display available market stocks and prices
-Buy stocks and add them to portfolio
-Sell owned stocks
-Track portfolio holdings
-View transaction history
-Save portfolio data using file handling
-Simple console-based interface
+- Display available market stocks and prices
+- Buy stocks and add them to portfolio
+- Sell owned stocks
+- Track portfolio holdings
+- View transaction history
+- Save portfolio data using file handling
+- Simple console-based interface
 
 ## Technologies Used
 Java
@@ -57,13 +57,13 @@ A Java-based Hotel Reservation System developed to simulate room booking and res
 The project was built to practice Object-Oriented Programming concepts, file handling, and data management in Java.
 
 ## Features
-Search available hotel rooms
-Room categorization (Standard, Deluxe, Suite)
-Make reservations
-Cancel bookings
-Simulate payment process
-View booking details
-Store booking information using file handling
+- Search available hotel rooms
+- Room categorization (Standard, Deluxe, Suite)
+- Make reservations
+- Cancel bookings
+- Simulate payment process
+- View booking details
+- Store booking information using file handling
 
 ## Technologies Used
 Java
