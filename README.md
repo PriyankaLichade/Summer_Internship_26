@@ -26,12 +26,15 @@ The application allows users to add student records, calculate performance stati
 - Collections Framework (ArrayList)
 - Event Handling
 
+---
 
-## Stock Trading Platform
+# Stock Trading Platform
 
 A simple Java-based stock trading simulation project developed to demonstrate Object-Oriented Programming concepts and portfolio management logic.
 
 This project allows users to simulate stock market operations such as buying and selling stocks, tracking investments, and monitoring portfolio performance through a console-based interface.
+
+---
 
 ## Features
 - Display available market stocks and prices
@@ -42,19 +45,25 @@ This project allows users to simulate stock market operations such as buying and
 - Save portfolio data using file handling
 - Simple console-based interface
 
-## Technologies Used
-Java
-Object-Oriented Programming (OOP)
-ArrayList
-HashMap
-File Handling (File I/O)
-Collections Framework
+---
 
-## Hotel Reservation System
+## Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+- ArrayList
+- HashMap
+- File Handling (File I/O)
+- Collections Framework
+
+---
+
+# Hotel Reservation System
 
 A Java-based Hotel Reservation System developed to simulate room booking and reservation management. This project allows users to search rooms, make reservations, cancel bookings, and view reservation details using a console-based interface.
 
 The project was built to practice Object-Oriented Programming concepts, file handling, and data management in Java.
+
+---
 
 ## Features
 - Search available hotel rooms
@@ -65,9 +74,13 @@ The project was built to practice Object-Oriented Programming concepts, file han
 - View booking details
 - Store booking information using file handling
 
+---
+
 ## Technologies Used
-Java
-Object-Oriented Programming (OOP)
-Collections Framework
-File Handling (File I/O)
-ArrayList
+- Java
+- Object-Oriented Programming (OOP)
+- Collections Framework
+- File Handling (File I/O)
+- ArrayList
+
+---
